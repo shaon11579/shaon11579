@@ -1,16 +1,15 @@
-### Hi there 👋
+### Here is what I'm working on! 👋
 
-<!--
-**shaon11579/shaon11579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... INSTITUTE FOR INTELLIGENT SYSTEMS & Applied Statistics at University of Memphis
+- 🌱 I’m currently learning ... Deep Leanring in R/Python 
+- 👯 I’m looking to collaborate on ... Applied Stat/ML projects 
+- 🤔 I’m looking for help with ...Tensorflow in R 
+- 💬 Ask me about ...Anything 
+- 📫 How to reach me: ... [Personal Website](https://www.mahbubulhasan.net)
+- 😄 Pronouns: ...He/His
+- ⚡ Fun fact: ...I am from Bangladeh. 
+
